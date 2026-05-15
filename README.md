@@ -12,7 +12,7 @@ time while learning core Java.
 - `src/arrays_collections/` - arrays, `ArrayList`, `LinkedList`, and `HashMap`
 - `src/methods/` - method patterns, return types, static methods, and recursion
 - `src/oop/` - classes, constructors, inheritance, abstraction, interfaces,
-  encapsulation, and polymorphism
+  encapsulation, and    polymorphism
 - `src/file_handling/` - file creation, reading, writing, and deletion examples
 - `src/Hostel/` - package-based Java examples
 - `hello.txt` - sample file used by file handling programs
