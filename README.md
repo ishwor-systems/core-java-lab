@@ -6,7 +6,7 @@ time while learning core Java.
 
 ## Folder Layout
 
-- `src/fundamentals/` - variables, data types, operators, strings, input, and
+- `src/fundamentals/` - variables, data types, operators , strings, input, and
   basic language features
 - `src/control_flow/` - `if` logic, loops, and flow-control exercises
 - `src/arrays_collections/` - arrays, `ArrayList`, `LinkedList`, and `HashMap`
@@ -27,7 +27,7 @@ time while learning core Java.
 - methods with and without parameters or return values
 - recursion and static methods
 - object-oriented programming concepts
-- file handling and package usage
+- file handling and package usage .
 
 ## Good Starting Points
 
