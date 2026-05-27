@@ -1,6 +1,6 @@
 # Core Java Lab
 
-This repo is my Java practice lab. It is not one big application. It is a
+This repo was from my learning days when I practice Java. It is not one big application. It is a
 collection of small programs grouped by topic so I can focus on one area at a
 time while learning core Java.
 
