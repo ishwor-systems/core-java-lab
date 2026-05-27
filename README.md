@@ -60,6 +60,7 @@ java -cp out Hostel.DateTimeWork
 
 ## A Quick Note
 
-Most of these files are standalone exercises, so you can open a topic folder
+Most of these files are stand alone exercises, so you can open a topic folder
 and run classes one by one without needing a larger framework around them. The
 `.gitignore` already leaves out build output and common IDE files.
+
