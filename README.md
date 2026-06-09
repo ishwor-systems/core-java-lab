@@ -1,21 +1,22 @@
 # Core Java Lab
 
-This repo was from my learning days when I practice Java. It is not one big application. It is a
-collection of small programs grouped by topic so I can focus on one area at a
-time while learning core Java.
+This repo is a grab bag of Java practice programs. It is not one big
+application. Most files are small examples I used to work through core Java
+basics, from syntax and loops to classes, collections, packages, and file
+handling.
 
 ## Folder Layout
 
-- `src/fundamentals/` - variables, data types, operators , strings, input, and
+- `src/fundamentals/` - variables, data types, operators, strings, input, and
   basic language features
 - `src/control_flow/` - `if` logic, loops, and flow-control exercises
 - `src/arrays_collections/` - arrays, `ArrayList`, `LinkedList`, and `HashMap`
 - `src/methods/` - method patterns, return types, static methods, and recursion
 - `src/oop/` - classes, constructors, inheritance, abstraction, interfaces,
-  encapsulation, and    polymorphism
+  encapsulation, and polymorphism
 - `src/file_handling/` - file creation, reading, writing, and deletion examples
 - `src/Hostel/` - package-based Java examples
-- `hello.txt` - sample file used by file handling .programs
+- `hello.txt` - sample file used by file handling programs
 
 ## What You'll Find
 
@@ -27,7 +28,7 @@ time while learning core Java.
 - methods with and without parameters or return values
 - recursion and static methods
 - object-oriented programming concepts
-- file handling and package usage .
+- file handling and package usage
 
 ## Good Starting Points
 
@@ -58,9 +59,8 @@ java -cp out Main
 java -cp out Hostel.DateTimeWork
 ```
 
-##  Quick Note
+## A Quick Note
 
-Most of these files are stand alone exercises, so you can open a topic folder
+Most of these files are standalone exercises, so you can open a topic folder
 and run classes one by one without needing a larger framework around them. The
 `.gitignore` already leaves out build output and common IDE files.
-
