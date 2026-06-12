@@ -6,7 +6,7 @@ public class ArrayListWork {
         names.add("John");
         names.add("Jane");
         names.add("Julie");
-        names.add("Ishwor");
+        names.add("Manjita");
 
 
         names.remove("Jane");
